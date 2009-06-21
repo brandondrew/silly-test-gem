@@ -1,0 +1,7 @@
+= silly-test-gem
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Brandon Zylstra. See LICENSE for details.
